@@ -1,0 +1,2 @@
+Hello world!
+ÂInitial Balance for the persons:[Person{name='sim', initialBalance=500, assetWorth=0}, Person{name='tim', initialBalance=200, assetWorth=0}, Person{name='bill', initialBalance=0, assetWorth=0}]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.model.PersonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-12T13:06:03" hostname="Kshipras-MacBook-Air.local" time="0.031">
+  <properties/>
+  <testcase name="exceptionRaisedWhenPersonIsNotInTheListTest()" classname="org.example.model.PersonTest" time="0.031"/>
+  <system-out><![CDATA[Hello world!
+Initial Balance for the persons:[Person{name='sim', initialBalance=500, assetWorth=0}, Person{name='tim', initialBalance=200, assetWorth=0}, Person{name='bill', initialBalance=0, assetWorth=0}]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
